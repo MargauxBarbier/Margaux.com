@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Margaux Homepage
-description: This is the description of the page
+title: Go To Margaux
+description: Hi there, Thanks for visiting my page. 
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
