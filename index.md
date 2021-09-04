@@ -9,32 +9,16 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 [Link to another page](./another-page.html).
 There should be whitespace between paragraphs.
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-My name is Margaux. I am 24 years old and I live in Tokyo, Japan. 
-Find me on <a href="https://www.instagram.com/margauxbarbier/" target="_blank">Instagram</a>
-
-## Header 2
-
 > This is a blockquote following a header.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
 
-### Header 3
+## About me
 
+My name is Margaux. I am 24 years old and I live in Tokyo, Japan. 
+Find me on <a href="https://www.instagram.com/margauxbarbier/" target="_blank">Instagram</a>
 
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+### What I do
 
 ###### Header 6
 
