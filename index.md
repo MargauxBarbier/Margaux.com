@@ -13,7 +13,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 # Header 1
 
 My name is Margaux. I am 24 years old and I live in Tokyo, Japan. 
-Find me on [Instagram](https://www.instagram.com/margauxbarbier/).
+Find me on <a href="https://www.instagram.com/margauxbarbier/" target="_blank">Instagram</a>
 
 ## Header 2
 
