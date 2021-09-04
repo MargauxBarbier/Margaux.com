@@ -4,17 +4,16 @@ title: Go To Margaux
 description: Hi there, Thanks for visiting my page. 
 ---
 
+**Notes regarding Markdown**
 Text can be **bold**, _italic_, or ~~strikethrough~~.
-
 [Link to another page](./another-page.html).
-
 There should be whitespace between paragraphs.
-
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 # Header 1
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+My name is Margaux. I am 24 years old and I live in Tokyo, Japan. 
+Find me on [Instagram](https://www.instagram.com/margauxbarbier/).
 
 ## Header 2
 
