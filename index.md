@@ -1,12 +1,11 @@
 ---
 layout: default
-title: Go To Margaux
-description: Hi there, Thanks for visiting my page. 
+title: Remote Japan
+description: Find all the infos about working remotely in Japan. 
 ---
 
 ## About me
 
-My name is Margaux. I am 24 years old and I live in Tokyo, Japan. 
 Find me on <a href="https://www.instagram.com/margauxbarbier/" target="_blank">Instagram</a>
 
 ### What I do
