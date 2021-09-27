@@ -1,10 +1,11 @@
 ---
 layout: default
-title: Another page
-description: This is just another page
+title: Remote Japan
+description: Find all the infos about working remotely in Japan. 
+
 ---
 
-## Welcome to another page
+## Remote friendly places in Japan
 
 _yay_
 
