@@ -10,8 +10,8 @@ Find me on <a href="https://www.instagram.com/margauxbarbier/" target="_blank">I
 
 ## What you want to know ##
 
-* Remote-friendly places in Japan 
-* Working remotely in Japan 
-* Coliving in Japan 
-* Coworking in Japan 
-* EarlyBirds Tokyo 
+* Remote-friendly places in Japan: ここです。  
+* Working remotely in Japan: ここです。  
+* Coliving in Japan: ここです。  
+* Coworking in Japan: ここです。  
+* EarlyBirds Tokyo: ここです。  
