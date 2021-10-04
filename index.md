@@ -10,7 +10,7 @@ Find me on <a href="https://www.instagram.com/margauxbarbier/" target="_blank">I
 
 ## What you want to know ##
 
-* Remote-friendly places in Japan: [ここです。](remote-friendly-pages.md)
+* Remote-friendly places in Japan: [ここです。](https://www.instagram.com/whereiwouldliketoremote/)
 * Working remotely in Japan: ここです。  
 * Coliving in Japan: ここです。  
 * Coworking in Japan: ここです。  
