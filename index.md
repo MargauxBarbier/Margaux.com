@@ -8,7 +8,7 @@ description: Hi! Welcome on my page.
 
 Find me on <a href="https://www.instagram.com/margauxbarbier/" target="_blank">Instagram</a>
 
-## What you want to know ##
+## Projects ##
 
-* Remote-friendly places: [ここです。](https://www.instagram.com/whereiwouldliketoremote/)
-* EarlyBirds Tokyo: [ここです。](https://www.earlybirdstokyo.com/)
+* Remote-friendly places: [here](https://www.instagram.com/whereiwouldliketoremote/)
+* EarlyBirds Tokyo: [here](https://www.earlybirdstokyo.com/)
