@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Remote Japan
-description: Find all the infos about working remotely in Japan. 
+title: Margaux Barbier
+description: Hi! Welcome on my page. 
 ---
 
 ## About me
