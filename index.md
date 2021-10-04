@@ -11,4 +11,4 @@ Find me on <a href="https://www.instagram.com/margauxbarbier/" target="_blank">I
 ## What you want to know ##
 
 * Remote-friendly places: [ここです。](https://www.instagram.com/whereiwouldliketoremote/)
-* EarlyBirds Tokyo: ここです。  
+* EarlyBirds Tokyo: [ここです。](https://www.earlybirdstokyo.com/)
