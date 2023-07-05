@@ -8,6 +8,7 @@
     }
   </style>
 </head>
+
 <body>
   <h1>Hi! Welcome to my page.</h1>
   <h2>About me</h2>
